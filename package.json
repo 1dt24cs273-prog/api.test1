@@ -1,0 +1,12 @@
+{
+  "name": "api-sentinel",
+  "version": "1.0.0",
+  "description": "Mission Control dashboard for API monitoring",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
